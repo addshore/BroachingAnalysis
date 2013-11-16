@@ -1,0 +1,12 @@
+﻿on close is freezes, we need to close all threads
+on start create file
+on advance write new line to file
+
+find what serial numbers look liek
+get example part nuumbers
+
+Get rid of animation on status bars
+make dropped arrow big and bold
+make side bars a different colour
+Add a desctiption under bars as to what is happening
+Join bars together?
